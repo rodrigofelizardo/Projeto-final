@@ -39,5 +39,7 @@ Foi criado um Pipeline completo contendo:
 - PCA
 - Modelo treinado
 
-O modelo final foi salvo como:
+
+
+[streamlit-app-2026-02-16-11-02-06.webm](https://github.com/user-attachments/assets/33474c28-c9a9-44c1-a104-0664a4a907da)
 
